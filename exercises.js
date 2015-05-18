@@ -140,8 +140,4 @@ function charFreq(string) {
     return charCount;
 }
 
-// var obj = {};
-// obj['a'] = 1;
-// obj.a = 1;
-
 console.log(charFreq("abbabcbdbabdbdbabababcbcbab"));
